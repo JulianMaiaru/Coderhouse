@@ -9,6 +9,7 @@ const ItemListContainer = () => {
     <div  className="col-md-6 bg-black">
     <br />
     <br />
+    <br />
       <h2>GALERIA DE IMAGENES
       </h2>
       <br />
